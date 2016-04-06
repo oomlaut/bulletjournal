@@ -1,0 +1,28 @@
+{
+  "name": "bulletjournal",
+  "version": "1.0.0",
+  "description": "note-taking and recordkeeping app",
+  "main": "app.js",
+  "scripts": {
+    "test": "s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oomlaut/bulletjournal.git"
+  },
+  "author": "Paul Gueller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oomlaut/bulletjournal/issues"
+  },
+  "homepage": "https://github.com/oomlaut/bulletjournal#readme",
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "gulp-sass": "^2.2.0"
+  }
+}

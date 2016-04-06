@@ -1,0 +1,22 @@
+{
+  "name": "bulletjournal",
+  "description": "note-taking and recordkeeping app",
+  "main": "app.js",
+  "authors": [
+    "Paul Gueller"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/oomlaut/bulletjournal",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "lib/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#~0.97.5"
+  }
+}
